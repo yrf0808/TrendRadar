@@ -58,7 +58,7 @@ notification:
     feishu_url: "" # 飞书机器人的 webhook URL
     dingtalk_url: "" # 钉钉机器人的 webhook URL
     wework_url: "" # 企业微信机器人的 webhook URL
-    telegram_bot_token: "" # Telegram Bot Token
+    telegram_bot_token: "" # Telegram Bot Token  
     telegram_chat_id: "" # Telegram Chat ID
     email_from: "" # 发件人邮箱地址
     email_password: "" # 发件人邮箱密码或授权码
@@ -79,31 +79,46 @@ weight:
 platforms:
   - id: "toutiao"
     name: "今日头条"
-  - id: "wallstreetcn-hot"      
+
+  - id: "wallstreetcn-hot"
     name: "华尔街见闻"
-  - id: "thepaper"  
+
+  - id: "thepaper"
     name: "澎湃新闻"
-  - id: "bilibili-hot-search"    
-    name: "bilibili 热搜"    
-  - id: "cls-hot"  
+
+  - id: "bilibili-hot-search"
+    name: "bilibili 热搜"
+
+  - id: "cls-hot"
     name: "财联社热门"
-  - id: "ifeng"  
+
+  - id: "ifeng"
     name: "凤凰网"
-  - id: "douyin"  
+
+  - id: "douyin"
     name: "抖音"
-  - id: "zhihu"    
+
+  - id: "zhihu"
     name: "知乎"
-  - id: "wallstreetcn-quick"  
+
+  - id: "wallstreetcn-quick"
     name: "华尔街见闻 快讯"
-  - id: "wallstreetcn-news"  
+
+  - id: "wallstreetcn-news"
     name: "华尔街见闻 最新"
-  - id: "jin10"    
+
+  - id: "jin10"
     name: "金十数据"
-  - id: "fastbull"  
+
+  - id: "fastbull"
     name: "快讯通"
-  - id: "sputniknewscn"    
+
+  - id: "sputniknewscn"
     name: "卫星通讯社"
-  - id: "zaobao"  
+
+  - id: "zaobao"
     name: "联合早报"
-  - id: "mktnews"  
+
+  - id: "mktnews"
     name: "MKT新闻"
+
