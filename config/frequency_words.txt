@@ -1,5 +1,6 @@
 大疆
 DJI
++发布
 
 字节
 bytedance
@@ -15,16 +16,17 @@ Microsoft
 NVIDIA
 黄仁勋
 
-AMD  
+AMD
++发布
 
 谷歌
-google
-gemini
-deepmind
+google  
+gemini 3  
+google ai studio
 
 chatgpt  
 openai
-sora
+sora  
 
 iphone  
 ipad  
@@ -32,19 +34,43 @@ mac
 ios
 
 ai
-+openai  
++发布
+
 人工智能
 
 自动驾驶
+FSD
 
 机器人
++Optimus
++宇树
 
 国产
 中国
++经济
++发布
+
+A股
+上证
+深证
++涨跌
+!预测
 
 美国
-日本
 韩国
+
+美联储
++降息
++加息
+
+特朗普
+
+美股
++涨跌
++TSLA
++NVDA
++GOOGL
++GOOG
 
 芯片
 光刻机
@@ -52,6 +78,19 @@ ai
 solana
 比特币
 以太坊
+
+灵光
++发布
++技巧
++使用
+
+小米
++涨跌
++发布
+!广告
+
+世界杯
++比赛
 
 
 
