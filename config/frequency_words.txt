@@ -1,16 +1,16 @@
 大疆
-DJI
+DJI    
 +发布
 
 字节
-bytedance  
+bytedance    
 张一鸣
 
 特斯拉
 马斯克
 
 微软
-Microsoft
+Microsoft  
 
 英伟达
 NVIDIA
@@ -22,13 +22,13 @@ AMD 
 谷歌
 google  
 gemini 3    
-google ai studio    
+google ai studio      
 
 chatgpt  
 openai
-sora  
+sora    
 
-iphone  
+iphone    
 ipad  
 mac
 ios
@@ -42,13 +42,13 @@ ai
 FSD
 
 机器人
-+Optimus  
-+宇树
++Optimus    
 
 国产
++发布
+
 中国
 +经济
-+发布
 
 A股
 上证
@@ -61,16 +61,12 @@ A股
 
 美联储
 +降息
-+加息
 
 特朗普
 
 美股
 +涨跌
-+TSLA      
-+NVDA
-+GOOGL  
-+GOOG  
+!预测
 
 芯片
 光刻机
@@ -80,13 +76,10 @@ solana
 以太坊
 
 灵光
-+发布
-+技巧
 +使用
 
 小米
 +涨跌
-+发布
 !广告
 
 世界杯
