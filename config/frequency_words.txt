@@ -1,9 +1,8 @@
 大疆
-DJI      
-+发布
+DJI
 
 字节
-bytedance      
+bytedance        
 张一鸣
 
 特斯拉
@@ -17,12 +16,11 @@ NVIDIA
 黄仁勋
 
 AMD  
-+发布
 
 谷歌
 google  
 gemini 3    
-google ai studio      
+google ai studio              
 
 chatgpt  
 openai
@@ -31,44 +29,29 @@ sora   
 iphone    
 ipad  
 mac
-ios
-
-ai
-+发布
-
-人工智能
+ios  
 
 自动驾驶
 
 机器人      
 
-国产
-+发布
-
-中国
-+经济
-
-上证
-深证
-+涨跌
-
 美国
 韩国
 
-美联储
-+降息
+芯片
+光刻机
+
+solana    
+比特币
+以太坊  
 
 特朗普
 
 美股
 +涨跌
 
-芯片
-光刻机
-
-solana  
-比特币
-以太坊
+美联储
++降息
 
 灵光
 +使用
@@ -79,7 +62,19 @@ solana 
 世界杯
 +比赛
 
+人工智能
+ai
++发布
 
+国产
++发布  
+
+中国
++经济
+
+上证
+深证
++涨跌  
 
 
 
